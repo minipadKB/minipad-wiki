@@ -3,6 +3,7 @@ name: docusaurus-deploy
 on: [workflow_dispatch]
 permissions:
   id-token: write
+  pages: write
 
 jobs:
   deploy:
