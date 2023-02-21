@@ -27,6 +27,7 @@ The information provided below **assumes you are using Lekker switches** as your
 | Travel Distance | 4.0mm[^1] |
 | Key Lifespan | 100 million keystrokes[^1] |
 | Backlighting | TBD |
+| Dimensions | TBD |
 
 [^1]: https://wooting.io/lekker
 
@@ -50,11 +51,11 @@ The information provided below **assumes you are using Lekker switches** as your
 | Hall effect sensors | SLSS49E |
 | ADC Channels | 4 |
 | Operating Voltage | 3.3V |
-| Dimensions | 65mm x 65mm |
+| Dimensions | TBD |
 
 ## 📦 Case
 
 | **Specification** | **Details** |
 | --- | --- |
 | Version | Acrylic / 3D Printed |
-| Dimensions | 120mm x 75mm x 30mm |
+| Dimensions | TBD |
