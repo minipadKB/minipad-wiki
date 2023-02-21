@@ -1,6 +1,8 @@
 name: docusaurus-deploy
 
 on: [workflow_dispatch]
+permissions:
+  pages: write
 
 jobs:
   deploy:
