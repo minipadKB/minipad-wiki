@@ -1,11 +1,13 @@
 ---
 id: technical-specifications
 title: Technical Specifications
-sidebar_position: 1
+sidebar_position: 3
 sidebar_label: Technical Specifications
 ---
 
 This page lists the technical specifications of the keypad. This includes info related to the CPU, firmware, polling rate and more.
+
+If you'd like to suggest something else to be added here, give us a yell on our [Discord](https://discord.gg/minipad).
 
 ##  Keypad
 
