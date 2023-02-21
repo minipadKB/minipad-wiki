@@ -22,7 +22,7 @@ The information provided below **assumes you are using Lekker switches** as your
 | Switches | Lekker[^1] |
 | Key Switch Type | Analog Hall Effect |
 | Actuation Force | 40-60 cN[^1] |
-| Travel Distance | 4.0mm |
+| Travel Distance | 4.0mm[^1] |
 | Key Lifespan | 100 million keystrokes[^1] |
 | Backlighting | TBD |
 
