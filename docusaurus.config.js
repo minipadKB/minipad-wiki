@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'minipad wiki',
-  tagline: 'idk what a tagline is',
+  title: 'minipad-wiki',
+  tagline: 'A Wooting-like keypad with rapid trigger functionality, specifically made for osu!.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -42,14 +42,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/${organizationName}/${projectName}/',
+          'https://github.com/minipadkb/minipad-wiki/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/${organizationName}/${projectName}/',
+          'https://github.com/minipadkb/minipad-wiki/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'minipad-wiki',
         logo: {
-          alt: 'My Site Logo',
+          alt: '',
           src: 'img/logo.svg',
         },
         items: [
@@ -74,14 +74,19 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Wiki',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/${organizationName}/${projectName}/',
+            href: 'https://discord.gg/minipad',
+            label: 'Discord',
+            position: 'left',
+          },
+          {
+            href: 'https://github.com/minipadkb/minipad-wiki/',
             label: 'GitHub',
             position: 'right',
-          },
+          }
         ],
       },
       footer: {
@@ -90,27 +95,19 @@ const config = {
           {
             title: 'Docs',
             items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
             ],
           },
           {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                  label: 'Discord',
+                  href: 'https://discord.gg/minipad',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                href: 'https://twitter.com/minisbett',
+              }
             ],
           },
           {
@@ -122,12 +119,16 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/${organizationName}/${projectName}/',
-              },
+                href: 'https://github.com/minipadkb/minipad-wiki/',
+                },
+                {
+                    label: "What is Rapid Trigger?",
+                    href: 'https://next.wooting.io/post/what-is-wootings-rapid-trigger-for-analog-keyboards'
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Project Minipad, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

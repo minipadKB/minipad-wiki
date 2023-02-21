@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Fully open-source',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The minipad is fully open-source, ranging from the PCB and case over
+        the firmware up to it's configuration software. It's all available on GitHub!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Fully DIY, fully affordable',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We don't sell the keypad - You build it yourself! It is very easy,
+        we provide everything you need to build it. And it's really cheap!
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Rapid-Trigger functionality',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Just like the famous Wooting keyboards, this keyboard is powered by hall effect sensors
+        that allow us to implement the rapid trigger functionality.
       </>
     ),
   },
