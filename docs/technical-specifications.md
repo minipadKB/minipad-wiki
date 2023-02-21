@@ -9,7 +9,7 @@ This page lists the technical specifications of the keypad. This includes info r
 
 If you'd like to suggest something else to be added here, give us a yell on our [Discord](https://discord.gg/minipad).
 
-##  Keypad
+## ⌨️ Keypad 
 
 :::info about the info
 The information provided below **assumes you are using Lekker switches** as your switches for the keypad. If you are using other switches or made switches yourself, other values might apply. Check out the footer note to find out more about lekker switches.
@@ -30,7 +30,7 @@ The information provided below **assumes you are using Lekker switches** as your
 
 [^1]: https://wooting.io/lekker
 
-## Firmware
+## 🛠️ Firmware 
 
 | **Specification** | **Details** |
 | --- | :---: |
@@ -38,7 +38,7 @@ The information provided below **assumes you are using Lekker switches** as your
 | Core | arduino-pico |
 | Framework | Arduino |
 
-## PCB
+## 📟 PCB
 
 | **Specification** | **Details** |
 | --- | :---: |
@@ -52,7 +52,7 @@ The information provided below **assumes you are using Lekker switches** as your
 | Operating Voltage | 3.3V |
 | Dimensions | 65mm x 65mm |
 
-## Case
+## 📦 Case
 
 | **Specification** | **Details** |
 | --- | --- |
