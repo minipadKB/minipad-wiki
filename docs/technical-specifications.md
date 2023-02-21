@@ -27,3 +27,32 @@ The information provided below **assumes you are using Lekker switches** as your
 | Backlighting | TBD |
 
 [^1]: https://wooting.io/lekker
+
+## Firmware
+
+| **Specification** | **Details** |
+| --- | :---: |
+| Language | C++ |
+| Core | arduino-pico |
+| Framework | Arduino |
+
+## PCB
+
+| **Specification** | **Details** |
+| --- | :---: |
+| Microcontroller | Raspberry Pi RP2040 |
+| CPU | Dual Core ARM Cortex-M0+ |
+| Clock Speed | 133 MHz |
+| Flash Memory | 16MB |
+| SRAM | 264KB |
+| Hall effect sensors | SLSS49E |
+| ADC Channels | 4 |
+| Operating Voltage | 3.3V |
+| Dimensions | 65mm x 65mm |
+
+## Case
+
+| **Specification** | **Details** |
+| --- | --- |
+| Version | Acrylic / 3D Printed |
+| Dimensions | 120mm x 75mm x 30mm |
