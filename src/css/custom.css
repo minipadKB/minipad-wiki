@@ -28,3 +28,8 @@
   --ifm-color-primary-lightest: #a961c5;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+[data-theme='light'] img[src$='#dark'],
+[data-theme='dark'] img[src$='#light'] {
+  display: none;
+}

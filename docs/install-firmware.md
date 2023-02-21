@@ -1,7 +1,7 @@
 ---
 id: install-firmware
 title: Installing the firmware
-sidebar_position: 1
+sidebar_position: 2
 sidebar_label: Installing the firmware
 ---
 
@@ -13,7 +13,8 @@ If you do not use minitility a lot, please manually make sure to check for firmw
 The firmware for the minipad can be downloaded in the releases section of the `minipadkb/minipad-firmware` repository on GitHub, you can find a link below.
 There are two firmware files available, the file with the suffix `2k` being for 2 keys and one with the suffix `3k` for 3 keys. Make sure to download the appropriate firmware file for your keypad, otherwise you might encounter unwanted side effects.
 
-![firmware](./img/firmware_files.png)
+![firmwarefiles-light](./img/firmwarefiles-light.png#light)
+![firmwarefiles-dark](./img/firmwarefiles-dark.png#dark)
 
 [Click here to visit the firmware download page.](https://github.com/minipadKB/minipad-firmware-reloaded/releases)
 
@@ -25,7 +26,8 @@ To flash the firmware onto your minipad, please follow these steps:
 2. Press the reset button twice in quick succession. The reset button is a small button located next to the USB port.
 3. Wait for a mass storage device to appear in the explorer.
 
-![massstorage](./img/massstorage.png)
+![massstorage-light](./img/massstorage-light.png#light)
+![massstorage-dark](./img/massstorage-dark.png#dark)
 
 4. Copy the firmware file to the mass storage device that appears in the explorer.
 5. Wait for the firmware file to finish copying.
