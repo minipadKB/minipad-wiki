@@ -72,7 +72,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'install-firmware',
+            docId: 'minipad/introduction',
             position: 'left',
             label: 'Wiki',
           },
