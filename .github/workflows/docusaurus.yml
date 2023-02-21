@@ -1,6 +1,7 @@
 # (...)
 jobs:
   deploy:
+    on: [workflow-dispatch]
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
