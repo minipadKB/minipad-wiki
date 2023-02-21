@@ -72,7 +72,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'install-firmware',
             position: 'left',
             label: 'Wiki',
           },
