@@ -33,7 +33,7 @@ The actuation point can be configured in minitility. For more information, pleas
 
 ### ⭐ Rapid Trigger
 
-Rapid Trigger, Wooting's famous feature that made the osu! community go crazy for almost half a year - Now as a keypad! As we have all information about the travel distance of the keys, we can also provide the rapid trigger functionality! 
+Rapid Trigger, Wooting's famous feature that made the osu! community go crazy for almost half a year - now as a keypad! As we have all information about the travel distance of the keys, we can also provide the rapid trigger functionality! 
 
 We are trying our best to provide an optimal experience as close to Wooting as possible, however we cannot guarantee that it'll feel the same for everyone. In these matters, check out other people's experience with the minipad.
 
