@@ -1,8 +1,8 @@
 {
-  "label": "minipad",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "All around the minipad, it's features, assembly guide, firmware installation and much more!"
-  }
+    "label": "minipad",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "All around the minipad, it's features, assembly guide, firmware installation and much more!"
+    }
 }
