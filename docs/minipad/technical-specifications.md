@@ -1,7 +1,7 @@
 ---
 id: technical-specifications
 title: Technical Specifications
-sidebar_position: 3
+sidebar_position: 5
 sidebar_label: Technical Specifications
 ---
 
