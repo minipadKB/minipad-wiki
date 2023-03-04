@@ -98,6 +98,10 @@ const config = {
                                 href: "/docs/minipad/introduction"
                             },
                             {
+                                label: "Purchase / Pricing",
+                                href: "/docs/minipad/purchase"
+                            },
+                            {
                                 label: "Technial Specifications",
                                 href: "/docs/minipad/technical-specifications"
                             }
