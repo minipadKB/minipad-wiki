@@ -82,7 +82,7 @@ PlatinumChicken#0362 • [Instagram](https://www.instagram.com/platinumchicken85
 
 ### demura
 
-Demura is our PCB expert. With his expertise he designs the PCBs for the minipad. He was the first person to join team!
+Demura is our PCB expert. With his expertise he designs the PCBs for the minipad. He was the first person to join the team!
 
 demura#4241
 
