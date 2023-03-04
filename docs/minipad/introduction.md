@@ -51,3 +51,49 @@ These ideas include:
 - A mode for the 3-key keypad to have a key only trigger after a certain delay to prevent accidental quick retries or smokes when accidentally tapping the key
 
 If you are encountering issues or having questions, please visit our [Discord](https://discord.gg/minipad).
+
+## Our team
+
+Our team is the whole community. That said, we do have a team of 8 main contributors, each of them dedicated to a section of this project they are experienced yet. Here is a list of us:
+
+### minisbett
+
+mini manages the project, Discord and collaborations. They are also responsible for the firmware of the minipad.
+
+minisbett#8873 • [YouTube](https://www.youtube.com/channel/UCms33Cx0x7DgQvSKm8YDPUw) • [Twitch](https://twitch.tv/minisbettosu) • [Twitter](https://twitter.com/@minisbett) • [GitHub](https://github.com/minisbett) • [osu!](https://osu.ppy.sh/u/minisbett)
+
+### Megii
+
+Megii is our keypad expert. With over 40 keypads built, amongst them keypads for legendary players such as Karcher or Cookiezi, he is a huge help when it comes to PCB and case design and making these two components work together.
+
+Megii#0550 • [YouTube](https://www.youtube.com/megii) • [Twitch](https://twitch.tv/megii) • [Twitter](https://twitter.com/@ryan_megii) • [osu!](https://osu.ppy.sh/u/megii)
+
+### Bexin
+
+Megii is our keypad expert. With over 40 keypads built, amongst them keypads for legendary players such as Karcher or Cookiezi, he is a huge help when it comes to PCB and case design and making these two components work together.
+
+Bexin#1128 • [GitHub](https://github.com/bexin3)
+
+### PlatinumChicken
+
+PlatinumChicken is our case modelist. He has great experience in working with blender and creates the case models for us, as well as some renders and animations.
+
+PlatinumChicken#0362 • [Instagram](https://www.instagram.com/platinumchicken85/) • [GitHub](https://github.com/PlatinumChicken)
+
+### demura
+
+Demura is our PCB expert. With his expertise he designs the PCBs for the minipad. He was the first person to join team!
+
+demura#4241
+
+### DeadRote
+
+DeadRote, also known as BTMCs technical manager, is a professional fullstack web developer. He is responsible for minitility, the configuration software of the minipad.
+
+DeadRote#1431
+
+### faltri
+
+Faltri, widely known as the person that designed plenty of osu! streamer overlays and mrekk's admin, is our asset designer. He helps us by creating designs like our logo for a consistent representation of the project.
+
+faltri#0001
