@@ -48,7 +48,7 @@ After that is done, wait for the website to process the gerber archive. Once tha
 ![pcba-light](./img/pcba-light.png#light)
 ![pcba-dark](./img/pcba-dark.png#dark)
 
-Next, click on the "Confirm" button and either log-in using a JLCPCB account or your Google account. Then, click on the "Next" button to the right of thwe bsite, below the price. The next page shows a render preview of the PCB. Nothing to do there, just click Next again. On the next site shows two buttons, there you upload the bom.csv and cpl.csv file downloaded from the GitHub repository. After that is done, click "Process BOM & CPL".
+Next, click on the "Confirm" button and either log-in using a JLCPCB account or your Google account. Then, click on the "Next" button to the right of the website, below the price. The next page shows a render preview of the PCB. Nothing to do there, just click Next again. On the next site shows two buttons, there you upload the bom.csv and cpl.csv file downloaded from the GitHub repository. After that is done, click "Process BOM & CPL".
 
 ![bomcpl-light](./img/bomcpl-light.png#light)
 ![bomcpl-dark](./img/bomcpl-dark.png#dark)
