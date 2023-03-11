@@ -38,6 +38,7 @@ The information provided below **assumes you are using Lekker switches** as your
 | Language | C++ |
 | Core | arduino-pico |
 | Framework | Arduino |
+| Source-Code | https://github.com/minipadKB/minipad-firmware |
 
 ## 📟 PCB
 
@@ -51,11 +52,11 @@ The information provided below **assumes you are using Lekker switches** as your
 | Hall effect sensors | SLSS49E |
 | ADC Channels | 4 |
 | Operating Voltage | 3.3V |
-| Dimensions | TBD |
+| Dimensions | 5.8mm x 5.8mm |
 
 ## 📦 Case
 
 | **Specification** | **Details** |
 | --- | --- |
 | Version | Acrylic / 3D Printed |
-| Dimensions | TBD |
+| Dimensions | 7.5mm x 7.5mm |
