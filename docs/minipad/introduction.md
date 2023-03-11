@@ -68,9 +68,16 @@ Megii is our keypad expert. With over 40 keypads built, amongst them keypads for
 
 Megii#0550 • [YouTube](https://www.youtube.com/megii) • [Twitch](https://twitch.tv/megii) • [Twitter](https://twitter.com/@ryan_megii) • [osu!](https://osu.ppy.sh/u/megii)
 
+
+### demura
+
+Demura is our PCB expert. With his expertise he designs the PCBs for the minipad. He was the first person to join the team!
+
+demura#4241 •  [Twitter](https://twitter.com/@demura_) • [GitHub](https://github.com/demura1701) • [osu!](https://osu.ppy.sh/u/iwonderhow)
+
 ### Bexin
 
-Megii is our keypad expert. With over 40 keypads built, amongst them keypads for legendary players such as Karcher or Cookiezi, he is a huge help when it comes to PCB and case design and making these two components work together.
+Bexin is our other PCB expert. He is mainly responsible for checking the PCB and making sure it's up to standards meets the quality expectations.
 
 Bexin#1128 • [GitHub](https://github.com/bexin3)
 
@@ -78,22 +85,16 @@ Bexin#1128 • [GitHub](https://github.com/bexin3)
 
 PlatinumChicken is our case modelist. He has great experience in working with blender and creates the case models for us, as well as some renders and animations.
 
-PlatinumChicken#0362 • [Instagram](https://www.instagram.com/platinumchicken85/) • [GitHub](https://github.com/PlatinumChicken)
-
-### demura
-
-Demura is our PCB expert. With his expertise he designs the PCBs for the minipad. He was the first person to join the team!
-
-demura#4241
+PlatinumChicken#0362 • [Instagram](https://www.instagram.com/platinumchicken85) • [GitHub](https://github.com/PlatinumChicken)
 
 ### DeadRote
 
 DeadRote, also known as BTMCs technical manager, is a professional fullstack web developer. He is responsible for minitility, the configuration software of the minipad.
 
-DeadRote#1431
+DeadRote#1431 • [Twitter](https://twitter.com/DRotate) • [osu!](https://osu.ppy.sh/u/deadrote)
 
 ### faltri
 
 Faltri, widely known as the person that designed plenty of osu! streamer overlays and mrekk's admin, is our asset designer. He helps us by creating designs like our logo for a consistent representation of the project.
 
-faltri#0001
+faltri#0001 • [Twitter](https://twitter.com/faltriii) • [Website](https://faltri.com) • [osu!](https://osu.ppy.sh/u/faltri)
