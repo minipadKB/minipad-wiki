@@ -35,4 +35,4 @@ To flash the firmware onto your minipad, please follow these steps:
 
 **That's it! Your minipad should now be running on the latest firmware.** 👍
 
-If you are encountering issues or having questions, please visit our [Discord](https://discord.gg/minipad).2
+If you are encountering issues or having questions, please visit our [Discord](https://discord.gg/minipad).
