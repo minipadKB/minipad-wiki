@@ -104,6 +104,10 @@ const config = {
                             {
                                 label: "Technial Specifications",
                                 href: "/docs/minipad/technical-specifications"
+                            },
+                            {
+                                label: "Getting Started with minitility",
+                                href: "/docs/minitility/get-started"
                             }
                         ],
                     },
