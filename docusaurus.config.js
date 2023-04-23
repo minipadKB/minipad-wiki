@@ -65,7 +65,7 @@ const config = {
                 title: 'minipad-wiki',
                 logo: {
                     alt: '',
-                    src: 'img/logo.svg',
+                    src: 'img/badge.svg',
                 },
                 items: [
                     {
@@ -138,7 +138,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} Project Minipad, Inc. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} Project Minipad. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,
