@@ -26,8 +26,7 @@ The information provided below **assumes you are using Lekker switches** as your
 | Actuation Force | 40-60 cN[^1] |
 | Travel Distance | 4.0mm[^1] |
 | Key Lifespan | 100 million keystrokes[^1] |
-| Backlighting | TBD |
-| Dimensions | TBD |
+| Dimensions | 7.5mm x 7.5mm |
 
 [^1]: https://wooting.io/lekker
 
@@ -58,5 +57,6 @@ The information provided below **assumes you are using Lekker switches** as your
 
 | **Specification** | **Details** |
 | --- | --- |
-| Version | Acrylic / 3D Printed |
+| Version | 3D Printed |
 | Dimensions | 7.5mm x 7.5mm |
+| Resin Material | 8111X |222
