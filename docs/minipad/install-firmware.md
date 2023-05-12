@@ -13,7 +13,7 @@ If you do not use minitility, please manually make sure to check for firmware up
 The firmware for the minipad can be downloaded in the releases section of the `minipadkb/minipad-firmware` repository on GitHub, you can find a link below.
 There are two firmware files available, the file with the suffix `2k` being for 2 keys and one with the suffix `3k` for 3 keys. Make sure to download the appropriate firmware file for your keypad, otherwise you might encounter unwanted side effects.
 
-[Click here to visit the firmware download page.](https://github.com/minipadKB/minipad-firmware/releases)
+[Click here to visit the firmware download page.](https://github.com/minipadKB/minipad-firmware/releases/latest)
 
 ![firmwarefiles-light](./img/firmwarefiles-light.png#light)
 ![firmwarefiles-dark](./img/firmwarefiles-dark.png#dark)
