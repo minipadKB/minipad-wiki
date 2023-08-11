@@ -26,6 +26,8 @@ You can find the components here:<br></br>
 [PCB](https://github.com/minipadkb/minipad) • [Case](https://github.com/minipadkb/minipad) • [Lekker switches](https://next.wooting.io/product/lekker-switch-linear60-12-pack)
 </center>
 
+Here's an overview of the estimated pricing on the v1 version of the minipad. Please note that there can be small inaccuracies in the listed prices above due to frequent, small adjustments to part prices on the market.
+  
 <div className="row">
 <div className="col">
 
@@ -52,7 +54,6 @@ You can find the components here:<br></br>
 
 </div>
 </div>
-
 :::note Info about the Lekker switches
 Since Wooting sells Lekker switches in quantities of 12, groups building the 3-key minipad need to buy two switch packs instead, doubling the price per person but also resulting in 9 spare switches, in case someone is interested in them. (9 switches = 7.50€)
 :::
@@ -96,7 +97,7 @@ This site shows two buttons, there you upload the bom.csv and cpl.csv file downl
 
 ### **Step 4**
 
-The next page shows a list of all components. If you see a component where it says "... shortfall", it means the component is currently out of stock on JLCPCB and therefore not available for PCB assembly. In this case, please contact us on Discord immediately so we can handle the situation and inform everyone. If everything looks alright, you can proceed by clicking on "Next" again. On the next page, which shows a another render of the PCB again, you can simply click "Next" again too.
+The next page shows a list of all components. If you see a component where it says "... shortfall", it means the component is currently out of stock on JLCPCB and therefore not available for PCB assembly. In this case, please contact us on Discord immediately so we can handle the situation and inform everyone. Chances are, we are already aware so make sure to check our Discord on substitutes for shortfalls on certain parts. If everything looks alright, you can proceed by clicking on "Next" again. On the next page, which shows a another render of the PCB again, you can simply click "Next" again too.
 
 ![components-light](./img/components-light.png#light)
 ![components-dark](./img/components-dark.png#dark)
