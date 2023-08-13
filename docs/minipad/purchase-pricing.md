@@ -9,29 +9,30 @@ sidebar_label: Purchase / Pricing
 Please also check out our [build guide](build-guide.md) as depending on your choice for the components as there might be small extra components (e.g. screws) you will need. These are usually very accessible, meaning you could buy them from local markets.
 :::
 
-The minipad consists of a PCB, the case and analog, magnetic switches, all of which need to be purchased separately. How accessible they are may vary depending on where you live, e.g. lekker switches might not be available for purchase in some countries or have very high shipping fees. Here's a guide on how to purchase them and the approximate pricing for each component!
+The minipad consists of a PCB, the case and analog, magnetic switches, all of which need to be purchased separately. How accessible they are may vary depending on where you live, e.g. Lekker switches might not be available for purchase in some countries or have very high shipping fees. Here's a guide on how to purchase them and the approximate pricing for each component!
 
 If you have any questions, feel free to ask them on our [Discord](https://discord.gg/minipad). You can find the technical specifications for the components [here](technical-specifications.md).
 
 ## Pricing
 
-As for the pricing of the PCB, there is some stuff to be noted. Most PCB manufacturers have a minimum purchase quantity for them, which is mostly 5-10 PCBs. Because of that, we recommend finding a group of 5 people in total in order to have the most optimal price split.
-The same goes for the Lekker switches; They can be bought in Wooting's store in packs of 12 switches. A link to their shop can be found below. Please also note that you can also modify Gateron or Cherry switches to replace Lekker switches. We have a dedicated channel and a lot of people with experience in doing that on our [Discord](https://discord.gg/minipad).
+As for the pricing of the PCB, there is some stuff to be noted. **Most PCB manufacturers have a minimum purchase quantity** for them, which is mostly 5-10 PCBs. Because of that, we recommend finding a group of 5 people in total in order to have the most optimal price split. Further below we have a table on what this price split might look like on the latest version of the minipad.
 
-The only component that does not have to be bought in higher quantities is the case. Each of the 5 people can organize purchasing their case themselves, or do it together again and possibly save on shipping fees. This is fully up to you! Further down, you can find a breakdown of what the price of the components looks like in total and what the cost per person in a group of 5 people would be, considering you purchase the components at our recommended manufacturer, [JLCPCB](https://jlcpcb.com/) and with our recommended specifications/materials.
+The same goes for the Lekker switches; They can be bought in Wooting's store in packs of 12 or 75 switches. A link to their shop can be found below. You can also use Gateron's KS-20 switches to replace Lekker switches since they are essentially the same switch, just with differen springs and colors. They are sold in Gateron's shop (but also on other platforms like AliExpress) in quantities of 35 pieces or higher, meaning depending on the amount of PCBs you are planning to populate it might be more expensive than Lekker switches since you will be having some leftovers.
+
+The only component that does not have to be bought in higher quantities is the case. Each of the 5 people can organize purchasing their case themselves, or do it together again and possibly save on shipping fees. This is fully up to you! Further down, you can find a breakdown of what the price of the components looks like in total and what the cost per person in a group of 5 people would be, considering you purchase the components at our recommended manufacturer, [JLCPCB](https://jlcpcb.com/).
 
 <center>
 You can find the components here:<br></br>
 
-[PCB](https://github.com/minipadkb/minipad) • [Case](https://github.com/minipadkb/minipad) • [Lekker switches](https://next.wooting.io/product/lekker-switch-linear60-12-pack)
+[PCB](https://github.com/minipadkb/minipad) • [Case](https://github.com/minipadkb/minipad) • [Lekker switches](https://next.wooting.io/product/lekker-switch-linear60-12-pack) • [KS-20 switches](https://gateron.com/products/gateron-ks-20-magnetic-white-switch-set)
 </center>
 
-Here's an overview of the estimated pricing on the v1 version of the minipad. Please note that there can be small inaccuracies in the listed prices above due to frequent, small adjustments to part prices on the market.
+Here's an overview of the estimated pricing on the v1 version of the minipad featuring Wooting's Lekker switches. Please note that there can be small inaccuracies in the listed prices above due to frequent, small adjustments to part prices on the market.
   
 <div className="row">
 <div className="col">
 
-<center><h3>2 Keys</h3></center>
+<center><h3>2 Keys (unavailable on v1)</h3></center>
 
 | **Component** | **Price** | **Effective Price per Person** |
 | :-------:| :--------: | :---------: |
@@ -54,19 +55,18 @@ Here's an overview of the estimated pricing on the v1 version of the minipad. Pl
 
 </div>
 </div>
+
 :::note Info about the Lekker switches
 Since Wooting sells Lekker switches in quantities of 12, groups building the 3-key minipad need to buy two switch packs instead, doubling the price per person but also resulting in 9 spare switches, in case someone is interested in them. (9 switches = 7.50€)
 :::
 
 ## Purchase
 
-Although the PCB can be bought at a lot of other manufacturers, we recommend [JLCPCB](https://jlcpcb.com) as they have very afforable PCB assembly, meaning you don't have to solder anything yourself! If you'd like to purchase the PCB at a different manufacturer, please make sure they support the specifications shown in the screenshot below. If you need help, you can always hit us up on our [Discord](https://discord.gg/minipad). 
+Although the PCB can be bought at a lot of other manufacturers, we recommend [JLCPCB](https://jlcpcb.com) as they have very afforable PCB assembly, meaning you don't have to solder anything yourself! If you'd like to purchase the PCB at a different manufacturer, please make sure they support the specifications shown in the screenshots below. If you need help, you can always hit us up on our [Discord](https://discord.gg/minipad). 
 
 As for the case, you have a lot of possibilities. If you have a good enough 3D printer at home you could print the case yourself, although you should make sure the material you are printing with is durable enough. Other than that, you can also 3D print the case at JLCPCB or any other 3D printing service. We tried all available resin printing materials and ended up recommending 8111X resin.
 
 The Lekker switches can be simply bought in [Wooting's store](https://next.wooting.io/product/lekker-switch-linear60-12-pack), or you can make your own as mentioned in the Pricing section above.
-
-## Purchasing the PCB
 
 ### **Step 1**
 
