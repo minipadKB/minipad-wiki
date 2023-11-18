@@ -50,7 +50,7 @@ Here's an overview of the estimated pricing on the v1 version of the minipad fea
 | :-------:| :--------: | :---------: |
 | 5x Case | 26.15€ | 5.23€ |
 | 5x PCB | 36.96€ | 7.39€ |
-| 24x Switches | 19.98€ | 4€ |
+| 24x Switches | 19.98€ | 4.00€ |
 | **Total**| **83.09€** | **16.62€** per person |
 
 </div>
